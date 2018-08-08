@@ -1,6 +1,6 @@
 matplotlib
 imutils
-skimage
+scikit-image
 numpy
 argparse
 cv2
