@@ -1,0 +1,6 @@
+matplotlib
+imutils
+skimage
+numpy
+argparse
+cv2
